@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "428890564881",
+    "firebase_url": "https://byg-test-app.firebaseio.com",
+    "project_id": "byg-test-app",
+    "storage_bucket": "byg-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428890564881:android:9ae7d19fbc15269a",
+        "android_client_info": {
+          "package_name": "com.example.vamshi.bygtestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428890564881-e7i58abp8b9bfn1du91reiporjat77sb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vamshi.bygtestapp",
+            "certificate_hash": "815D96AC07DB7781B4D69BD70899C40C3E826FA0"
+          }
+        },
+        {
+          "client_id": "428890564881-ku242dinvk0g7f245o434at4gjhkem01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaTvqyN6RxnbqH5d7f6h8KStCJXdfTzkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428890564881-ku242dinvk0g7f245o434at4gjhkem01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BYG Test app</string>
+    <string name="title_activity_show_story">ShowStoryActivity</string>
+</resources>
